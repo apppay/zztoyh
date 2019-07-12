@@ -13,11 +13,7 @@
 <hr/>
 <br/>
 <br/>
-2、演示demo： http://apppay.xyz/zztoyh/
-<br/>
-<br/>
-<br/>
-3、下载地址（目前只提供付费赞助分享）： 
+2、下载地址（目前只提供付费赞助分享）： http://apppay.xyz/pay_zztoyh/
 <br/>
 <br/>
 <br/>
