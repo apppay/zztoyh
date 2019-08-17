@@ -6,7 +6,7 @@
 <br/>
 #  1、这是演示截图，是没隐藏卡号的
 
-![image](https://github.com/apppay/zztoyh/blob/master/zzyhimg.png)
+![image](https://github.com/apppay/zztoyh/blob/master/zzyhimgs.png)
 <br/>
 <br/>
 <hr/>
