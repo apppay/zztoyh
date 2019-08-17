@@ -5,9 +5,17 @@
 <br/>
 <br/>
 <br/>
-1、这是演示截图
+1、这是演示截图，是没隐藏卡号的
 
 ![image](https://github.com/apppay/zztoyh/blob/master/zzyhimg.png)
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+1、这是演示截图，这是隐藏卡号的
+
+![image](https://github.com/apppay/zztoyh/blob/master/yc.jpg)
 <br/>
 <br/>
 <hr/>
