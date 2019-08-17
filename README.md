@@ -1,11 +1,10 @@
-# 
-支付宝转账到银行卡，扫码自动填写好收款人信息，不需要手动填写信息，直接转账到银行卡
+# 支付宝转账到银行卡，扫码自动填写好收款人信息，不需要手动填写信息，直接转账到银行卡
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-1、这是演示截图，是没隐藏卡号的
+# 1、这是演示截图，是没隐藏卡号的
 
 ![image](https://github.com/apppay/zztoyh/blob/master/zzyhimg.png)
 <br/>
@@ -13,7 +12,7 @@
 <hr/>
 <br/>
 <br/>
-1、这是演示截图，这是隐藏卡号的
+# 1、这是演示截图，这是隐藏卡号的
 
 ![image](https://github.com/apppay/zztoyh/blob/master/yc.jpg)
 <br/>
@@ -21,7 +20,7 @@
 <hr/>
 <br/>
 <br/>
-1、这是演示截图，还可以用表单的方式提交生成二维码
+# 1、这是演示截图，还可以用表单的方式提交生成二维码
 
 ![image](https://github.com/apppay/zztoyh/blob/master/biaodan.png)
 <br/>
