@@ -21,17 +21,17 @@
 <hr/>
 <br/>
 <br/>
-2、下载地址（目前只提供付费赞助分享）： http://apppay.xyz/pay_zztoyh/
-<br/>
-<br/>
-<br/>
-<br/>
 1、这是演示截图，还可以用表单的方式提交生成二维码
 
 ![image](https://github.com/apppay/zztoyh/blob/master/biaodan.png)
 <br/>
 <br/>
 <hr/>
+<br/>
+<br/>
+2、下载地址（目前只提供付费赞助分享）： http://apppay.xyz/pay_zztoyh/
+<br/>
+<br/>
 <br/>
 <br/>
 如有疑问可联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
