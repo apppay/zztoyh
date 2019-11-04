@@ -6,7 +6,7 @@
 <br/>
 #  1、这是演示截图，是没隐藏卡号的
 
-![image](https://github.com/apppay/zztoyh/blob/master/zzyhimgs.png)
+![image](http://www.apppay.xyz/index/githubimg/zztoyh/zzyhimgs.png)
 <br/>
 <br/>
 <hr/>
@@ -14,7 +14,7 @@
 <br/>
 #  1、这是演示截图，这是隐藏卡号的
 
-![image](https://github.com/apppay/zztoyh/blob/master/yc.jpg)
+![image](http://www.apppay.xyz/index/githubimg/zztoyh/yc.jpg)
 <br/>
 <br/>
 <hr/>
@@ -22,7 +22,7 @@
 <br/>
 #  1、这是演示截图，还可以用表单的方式提交生成二维码
 
-![image](https://github.com/apppay/zztoyh/blob/master/biaodan.png)
+![image](http://www.apppay.xyz/index/githubimg/zztoyh/biaodan.png)
 <br/>
 <br/>
 <hr/>
@@ -52,6 +52,7 @@
 <a href="https://github.com/apppay/dfpay">H5支付，淘宝代付</a><br>
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
 <a href="https://github.com/apppay/h5toyh">H5支付，个人支付宝使用H5拉起转账到银行卡</a><br>
+<a href="https://github.com/apppay/zztopayfx">支付宝转账到个人支付宝（飞行模式）</a><br>
 <a href="https://github.com/apppay/h5toyhfx">支付宝扫码转账到银行卡（飞行模式）</a><br>
 <a href="https://github.com/apppay/zztoyh">支付宝扫码转账到银行卡</a><br>
 <a href="https://github.com/apppay/zhifubao">支付宝，收款二维码实时生成，生成自定义金额与不可修改金额和备注信息</a><br>
