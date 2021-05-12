@@ -6,27 +6,29 @@
 1、这是显示卡号
 --
 
-![image](https://i.loli.net/2020/11/11/SoGnV36MK9Oy71a.jpg)
+<img src="https://i.loli.net/2020/11/11/SoGnV36MK9Oy71a.jpg" width="200" height="70%" alt=""/>
+
 <br/>
 <br/>
 <hr/>
 <br/>
 <br/>
 
-1、这是不显示卡号
+2、这是不显示卡号
 --
 
-![image](https://i.loli.net/2020/11/11/Bkv1ZsK3lJMCmAI.jpg)
+<img src="https://i.loli.net/2020/11/11/Bkv1ZsK3lJMCmAI.jpg" width="200" height="70%" alt=""/>
+
 <br/>
 <br/>
 <hr/>
 <br/>
 <br/>
 
-1、这种可以最大化减少风控
+3、这种可以最大化减少风控
 --
 
-<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="50%" alt=""/>
+<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="70%" alt=""/>
 
 <br/>
 <br/>
