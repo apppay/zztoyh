@@ -2,6 +2,7 @@
 <br/>
 <br/>
 <br/>
+
 1、这是显示卡号
 --
 
@@ -11,6 +12,7 @@
 <hr/>
 <br/>
 <br/>
+
 1、这是不显示卡号
 --
 
@@ -20,10 +22,13 @@
 <hr/>
 <br/>
 <br/>
+
 1、这种可以最大化减少风控
 --
 
 ![image](https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg)
+<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="200" alt=""/>
+
 <br/>
 <br/>
 <hr/>
