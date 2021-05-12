@@ -26,8 +26,7 @@
 1、这种可以最大化减少风控
 --
 
-![image](https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg)
-<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="200" alt=""/>
+<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="50%" alt=""/>
 
 <br/>
 <br/>
