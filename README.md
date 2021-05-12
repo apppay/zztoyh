@@ -6,7 +6,7 @@
 1、这是显示卡号
 --
 
-<img src="https://i.loli.net/2020/11/11/SoGnV36MK9Oy71a.jpg" width="200" height="70%" alt=""/>
+<img src="https://i.loli.net/2020/11/11/SoGnV36MK9Oy71a.jpg" width="200" height="100%" alt=""/>
 
 <br/>
 <br/>
@@ -17,7 +17,7 @@
 2、这是不显示卡号
 --
 
-<img src="https://i.loli.net/2020/11/11/Bkv1ZsK3lJMCmAI.jpg" width="200" height="70%" alt=""/>
+<img src="https://i.loli.net/2020/11/11/Bkv1ZsK3lJMCmAI.jpg" width="200" height="100%" alt=""/>
 
 <br/>
 <br/>
@@ -28,7 +28,7 @@
 3、这种可以最大化减少风控
 --
 
-<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="70%" alt=""/>
+<img src="https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg" width="200" height="100%" alt=""/>
 
 <br/>
 <br/>
