@@ -2,7 +2,8 @@
 <br/>
 <br/>
 <br/>
-# 1、这是显示卡号
+1、这是显示卡号
+--
 
 ![image](https://i.loli.net/2020/11/11/SoGnV36MK9Oy71a.jpg)
 <br/>
@@ -10,7 +11,8 @@
 <hr/>
 <br/>
 <br/>
-# 1、这是不显示卡号
+1、这是不显示卡号
+--
 
 ![image](https://i.loli.net/2020/11/11/Bkv1ZsK3lJMCmAI.jpg)
 <br/>
@@ -18,7 +20,8 @@
 <hr/>
 <br/>
 <br/>
-# 1、这种可以最大化减少风控
+1、这种可以最大化减少风控
+--
 
 ![image](https://i.loli.net/2021/05/12/drqEclI7TaK3W4m.jpg)
 <br/>
